@@ -1,8 +1,8 @@
 {
-    "latestVersion": "1.6",
-    "latestVersionCode": 6,
-    "url": "https://github.com/sagem007/AcceptanceAndroid/raw/master/releases/ACPT_app-no_release_64.apk",
+    "latestVersion": "1.8",
+    "latestVersionCode": 8,
+    "url": "https://github.com/sagem007/AcceptanceAndroid/raw/master/releases/ACPT_app-no_release_64_v1.8.apk",
     "releaseNotes": [
-      "Модификация приложения."
+      "Добавлена боковая кнопка."
     ]
   }
